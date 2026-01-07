@@ -11,5 +11,5 @@ It includes:
 - External power supply for the pump
 
 The ESP32 reads moisture values from the sensor and controls the relay module to turn the water pump ON or OFF automatically based on soil moisture levels.
-![Project Setup](images/project_image2.jpeg)
+[Hardware Setup](project_image.jpeg)
 
