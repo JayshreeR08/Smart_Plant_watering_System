@@ -60,5 +60,17 @@ The system continuously monitors soil moisture using a sensor. When the moisture
 
 ---
 
+## Code Explanation
+The system uses an ADC pin to read analog values from a soil moisture sensor.
+The sensor outputs values between 0 and 4095 depending on soil moisture.
+
+- Higher values indicate dry soil
+- Lower values indicate wet soil
+
+A threshold value is defined to determine when the soil is dry.
+Based on this threshold, an output pin controls an LED (or relay for a water pump).
+
+---
+
 ## Author
 Jayshree
