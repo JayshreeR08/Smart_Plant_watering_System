@@ -1,1 +1,14 @@
+# Project Images
+
+## Hardware Setup
+The image below shows the complete hardware setup of the Smart Plant Watering System.
+
+It includes:
+- ESP32 development board
+- Soil moisture sensor inserted into the plant pot
+- Relay module for pump control
+- Mini water pump placed in a water container
+- External power supply for the pump
+
+The ESP32 reads moisture values from the sensor and controls the relay module to turn the water pump ON or OFF automatically based on soil moisture levels.
 
