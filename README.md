@@ -37,13 +37,7 @@ The system continuously monitors soil moisture using a sensor. When the moisture
 
 ---
 
-## Circuit Diagram
-*(Add circuit diagram image here)*
-
----
-
 ## Code
-The code is written in Embedded C / Arduino IDE and handles:
 - Reading sensor values
 - Comparing moisture threshold
 - Controlling the relay and pump
@@ -67,5 +61,4 @@ The code is written in Embedded C / Arduino IDE and handles:
 ---
 
 ## Author
-**Your Name**  
-Department / University  
+Jayshree
