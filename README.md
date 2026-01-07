@@ -72,5 +72,9 @@ Based on this threshold, an output pin controls an LED (or relay for a water pum
 
 ---
 
+## Hardware Setup
+![Hardware Setup](images/project_setup.jpg)
+
+
 ## Author
 Jayshree
